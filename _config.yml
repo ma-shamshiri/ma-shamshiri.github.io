@@ -82,27 +82,27 @@ analytics:
 author:
   name             : "Your Sidebar Name"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "M.Sc. Student at Concordia University"
+  location         : "Montreal, Canada"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : # "http://yourfullgooglescholarurl.com"
   email            : "ma.shamshiri@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
-  codepen          :
+  codepen          : "https://codepen.io/ma-shamshiri"
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "https://www.facebook.com/mohammadamin.shamshiri"
   foursquare       :
-  github           : "academicpages"
+  github           : "ma-shamshiri"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/ma-shamshiri"
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
