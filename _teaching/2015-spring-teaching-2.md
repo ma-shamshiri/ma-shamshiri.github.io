@@ -4,11 +4,11 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2015-spring-teaching-1
 venue: "Concordia University, Department of Computer Science and Software Engineering"
-date: 2015-01-01
+date: 2020-09-01
 location: "Montreal, Canada"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Introduce students to the basic abstractions from Discrete Mathematics that are of central relevance in Computer Science. Teach students to reason formally using these abstractions, and to recognize and apply them in various areas of Computer Science and Software Engineering. Prepare students for courses on the foundations of computation.
 
 Heading 1
 ======
