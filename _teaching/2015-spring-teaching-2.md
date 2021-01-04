@@ -19,9 +19,3 @@ Upon successful completion of the course students will have basic knowledge and 
     <li>understand the concepts and properties of sets, functions and relations, and use them to describe discrete objects<li>
 <ul>
 
-======
-Heading 2
-======
-
-Heading 3
-======
