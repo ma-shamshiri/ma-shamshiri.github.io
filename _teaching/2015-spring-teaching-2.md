@@ -14,8 +14,16 @@ Introduce students to the basic abstractions from Discrete Mathematics that are 
 <h3>Course Learning Outcomes</h3>
 Upon successful completion of the course students will have basic knowledge and skills in mathematical and formal reasoning. In particular, students will be able to
 <ul>
-    <li>apply propositional logic, truth tables, logical inference, predicate logic and quantifcation as tools to describe formal objects and their properties<li>
-    <li>use proof techniques, inductive proofs and recursive denitions to reason about formal objects<li>
-    <li>understand the concepts and properties of sets, functions and relations, and use them to describe discrete objects<li>
+    <li>apply propositional logic, truth tables, logical inference, predicate logic and quantifcation as tools to describe formal objects and their properties</li>
+    <li>use proof techniques, inductive proofs and recursive denitions to reason about formal objects</li>
+    <li>understand the concepts and properties of sets, functions and relations, and use them to describe discrete objects</li>
 <ul>
+
+
+======
+Heading 2
+======
+
+Heading 3
+======
 
