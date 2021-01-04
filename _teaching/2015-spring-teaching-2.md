@@ -1,5 +1,5 @@
 ---
-title: "athematics for Computer Science"
+title: "TA - Mathematics for Computer Science"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2015-spring-teaching-1
